@@ -3,8 +3,8 @@
 // Author           : Rafael Dias
 // Created          : 12-26-2017
 //
-// Last Modified By : Rafael Dias
-// Last Modified On : 12-26-2017
+// Last Modified By : Anderson Ritter de Souza
+// Last Modified On : 09-13-2022
 // ***********************************************************************
 // <copyright file="ProviderThema.cs" company="OpenAC .Net">
 //		        		   The MIT License (MIT)
